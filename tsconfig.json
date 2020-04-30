@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "dist/",
+    "experimentalDecorators": true
+  },
+  "include": [
+    "decorators/function-parameters.ts"
+  ]
+}
